@@ -77,3 +77,40 @@ No inventar:
 - Descripciones
 
 Toda información debe provenir del nombre del archivo o datos proporcionados.
+
+# KUMARI Naming Convention
+
+## Formato oficial:
+
+CODIGO_PRECIO.extensión
+
+Ejemplo:
+
+ACC-001_225.png
+
+Interpretación:
+
+Código = ACC-001
+
+Precio = Bs 225
+
+## Reglas:
+
+- El guion pertenece al código.
+- El guion bajo "_" separa código y precio.
+- El precio siempre está expresado en bolivianos.
+- La extensión del archivo no forma parte del código.
+
+Ejemplos:
+
+ARE-001_120.png
+Código: ARE-001
+Precio: Bs 120
+
+COL-015_250.jpg
+Código: COL-015
+Precio: Bs 250
+
+ANI-020_85.webp
+Código: ANI-020
+Precio: Bs 85
